@@ -5,7 +5,7 @@ class Project
   # attr_reader :backers
   # def initialize(title)
   #   @title = title
-  #   @backers = []
+  #   @backers = []lea
   # end
   #
   # def add_backer(backer)
